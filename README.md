@@ -130,11 +130,11 @@ Essa abordagem integral ao desenvolvimento e manutenção do backend do "RespirA
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Maicon Douglas Mendes Alves** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/maicond02)
-* **Carlos Alberto de Aguiar** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/Krllos31)
-* **João Marcos Racanelli** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/JRacanelli16)
-* **Leonardo Marcondeli** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/LeonardoMarcondeli)
-* **Vinicius de Moraes de Godoi** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/viMoraes10)
+* **Maicon Douglas Mendes Alves** - *Trabalho Inicial* - [Link GitHub](https://github.com/maicond02)
+* **Carlos Alberto de Aguiar** - *Trabalho Inicial* - [Link GitHub](https://github.com/Krllos31)
+* **João Marcos Racanelli** - *Trabalho Inicial* - [Link GitHub](https://github.com/JRacanelli16)
+* **Leonardo Marcondeli** - *Trabalho Inicial* - [Link GitHub](https://github.com/LeonardoMarcondeli)
+* **Vinicius de Moraes de Godoi** - *Trabalho Inicial* - [Link GitHub](https://github.com/viMoraes10)
 
 ## 📄 Licença
 
